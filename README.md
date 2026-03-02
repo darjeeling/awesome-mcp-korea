@@ -10,6 +10,16 @@ A curated list of MCP (Model Context Protocol) servers and tools built for the K
 Covers legal systems, commerce, public data, finance, real estate, maps, and other Korea-specific integrations.
 Community-driven and open to contributions.
 
+> ⚠️ **보안 면책 고지 (Security Disclaimer)**
+>
+> 이 저장소는 MCP 서버 및 도구를 **목록화하는 것만을 목적**으로 합니다.
+> 등재된 프로젝트의 보안, 안전성, 신뢰성에 대해 이 저장소는 어떠한 책임도 지지 않습니다.
+> 각 도구의 사용에 따른 보안 위험은 **사용자 본인이 직접 검토하고 책임져야 합니다.**
+>
+> This repository exists solely for **listing purposes**.
+> We make no guarantees regarding the security, safety, or reliability of any listed project.
+> **Each user is solely responsible** for evaluating and assuming any security risks associated with the tools they choose to use.
+
 ---
 
 ## MCP란 무엇인가?
