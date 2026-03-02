@@ -82,6 +82,8 @@ Only projects meeting all of the following criteria are listed.
 
 > MCP servers related to Korean finance, tax, stocks, and cryptocurrency.
 
+**[KIS_MCP_Server](https://github.com/migusdn/KIS_MCP_Server)** – 한국투자증권(KIS) REST API를 통해 국내·해외 주식 시세 조회와 주문 기능을 제공하는 MCP 서버입니다.
+
 **[korea-stock-analyzer-mcp](https://github.com/Mrbaeksang/korea-stock-analyzer-mcp)** – 한국 주식의 재무·기술지표·DCF·뉴스·수급을 통합 분석하는 MCP 서버입니다.
 
 **[korea-stock-mcp](https://github.com/jjlabsio/korea-stock-mcp)** – DART와 KRX 공식 API를 연동해 공시·재무제표·주가 데이터를 조회하는 한국 주식 분석 MCP 서버입니다.
@@ -95,6 +97,10 @@ Only projects meeting all of the following criteria are listed.
 > 한국 부동산 정보, 등기, 청약 관련 MCP 서버
 
 > MCP servers related to Korean real estate, property registration, and housing subscriptions.
+
+**[A2A-MCP-RealEstate](https://github.com/gum798/A2A-MCP-RealEstate)** – 국토부 실거래가와 위치 데이터를 바탕으로 투자가치·삶의질을 종합 평가하는 한국 부동산 추천 MCP 서버입니다.
+
+**[mcp-kr-realestate](https://github.com/dev-tryit/mcp-kr-realestate)** – 국토부 실거래가와 ECOS 등 공공 API를 통합해 한국 부동산 투자 분석을 수행하는 MCP 서버입니다.
 
 **[real-estate-mcp](https://github.com/tae0y/real-estate-mcp)** – 국토교통부·온비드·청약홈 데이터를 기반으로 한국 부동산 매매·전월세·청약 정보를 제공하는 MCP 서버입니다.
 
@@ -122,15 +128,39 @@ Only projects meeting all of the following criteria are listed.
 
 ### 📊 Public Data
 
-> 한국 공공데이터, 기상, 교통, 보건 관련 MCP 서버
+> 한국 공공데이터, 교통, 보건 관련 MCP 서버
 
-> MCP servers related to Korean public data, weather, transportation, and health.
+> MCP servers related to Korean public data, transportation, and health.
 
-**[data-go-mcp-servers](https://github.com/Koomook/data-go-mcp-servers)** – data.go.kr의 다양한 공공 API를 MCP 서버 패키지로 제공하는 통합 프로젝트입니다.
+**[be-node-seoul-data-mcp](https://github.com/pinnaclesoft-ko/be-node-seoul-data-mcp)** – 서울시 공공데이터 API(지하철 승하차·문화행사 등)를 조회하는 MCP 서버 예제입니다.
+
+**[data-go-mcp-servers](https://github.com/Koomook/data-go-mcp-servers)** – data.go.kr 기반으로 국세청 사업자등록 진위/상태조회 등 한국 공공기관 API를 MCP 서버 패키지로 제공하는 프로젝트입니다.
+
+**[data4library-mcp](https://github.com/isnow890/data4library-mcp)** – 도서관정보나루 API를 연동해 공공도서관 검색, 대출 현황, 독서 통계를 제공하는 MCP 서버입니다.
+
+**[k-mfds-fooddb-mcp-server](https://github.com/slicequeue/k-mfds-fooddb-mcp-server)** – 식약처 식품영양성분 DB OpenAPI를 검색·조회할 수 있는 MCP 서버입니다.
 
 **[korea-stats-mcp](https://github.com/Dayoooun/korea-stats-mcp)** – KOSIS OpenAPI 기반으로 한국 통계를 자연어로 검색·분석하는 MCP 서버입니다.
 
-**[korea_weather](https://github.com/ohhan777/korea_weather)** – 기상청 단기예보 API를 연동해 한국 날씨 정보를 제공하는 MCP 서버입니다.
+**[opendata-mcp](https://github.com/ceami/opendata-mcp)** – 공공데이터포털 OpenAPI를 검색하고 표준 문서 기반으로 API를 호출하는 MCP 서버입니다.
+
+---
+
+### 🌦 Weather
+
+> 한국 기상청 및 한국 날씨 데이터 관련 MCP 서버
+
+> MCP servers related to Korea Meteorological Administration (KMA) and Korean weather data.
+
+**[KMA-WEATHER-MCP](https://github.com/woongaro/KMA-WEATHER-MCP)** – 기상청 단기예보 OpenAPI로 현재 날씨와 예보 도구를 제공하는 MCP 서버입니다.
+
+**[korea_weather](https://github.com/ohhan777/korea_weather)** – 기상청 단기예보 조회서비스 API를 연동해 한국 날씨 정보를 제공하는 MCP 서버입니다.
+
+**[mcp-get-weather](https://github.com/Kinuk97/mcp-get-weather)** – 기상청 단기예보 실황 API 기반으로 현재 한국 날씨를 조회하는 MCP 서버입니다.
+
+**[mcp-weather](https://github.com/jikime/mcp-weather)** – 기상청 단기예보 API로 지역 검색 기반 한국 날씨 정보를 제공하는 MCP 서버입니다.
+
+**[mcp-weather-server](https://github.com/dbsxortime/mcp-weather-server)** – 한국 기상청 API를 활용해 위치 기반 현재 날씨와 예보를 제공하는 MCP 서버입니다.
 
 ---
 
