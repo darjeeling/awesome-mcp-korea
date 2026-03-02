@@ -196,6 +196,22 @@ Only projects meeting all of the following criteria are listed.
 
 ---
 
+### 🤝 Collaboration & Communication
+
+> 한국 협업 도구, 메신저, 업무 관리 서비스 관련 MCP 서버
+
+> MCP servers related to Korean collaboration tools, messengers, and task management services.
+
+**[dooray-go/dooray_mcp](https://github.com/dooray-go/dooray_mcp)** – Dooray! 메신저 보내기, 캘린더 조회 및 일정 등록 기능을 제공하는 MCP 서버입니다.
+
+**[kwanok/dooray-mcp](https://github.com/kwanok/dooray-mcp)** – Dooray 업무·댓글·마일스톤·태그·멤버·메신저 기능을 포함한 32개 도구를 제공하는 MCP 서버입니다.
+
+**[mskim8717/dooray-mcp](https://github.com/mskim8717/dooray-mcp)** – Dooray API를 활용해 일정 추가 및 관리를 지원하는 MCP 서버입니다.
+
+**[hyeri0903/naver-works-mcp](https://github.com/hyeri0903/naver-works-mcp)** – 네이버 웍스(Naver Works) API를 연동하는 MCP 서버입니다.
+
+---
+
 ### 🧩 Miscellaneous
 
 > 위 카테고리에 속하지 않는 기타 한국 생태계 관련 MCP 서버
