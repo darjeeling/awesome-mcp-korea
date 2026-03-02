@@ -134,7 +134,7 @@ Only projects meeting all of the following criteria are listed.
 
 **[be-node-seoul-data-mcp](https://github.com/pinnaclesoft-ko/be-node-seoul-data-mcp)** – 서울시 공공데이터 API(지하철 승하차·문화행사 등)를 조회하는 MCP 서버 예제입니다.
 
-**[data-go-mcp-servers](https://github.com/Koomook/data-go-mcp-servers)** – data.go.kr 기반으로 국세청 사업자등록 진위/상태조회 등 한국 공공기관 API를 MCP 서버 패키지로 제공하는 프로젝트입니다.
+**[data-go-mcp-servers](https://github.com/Koomook/data-go-mcp-servers)** – data.go.kr 기반으로 국세청 사업자등록 조회를 포함한 다양한 한국 공공기관 API를 MCP 서버 패키지로 제공하는 프로젝트입니다.
 
 **[data4library-mcp](https://github.com/isnow890/data4library-mcp)** – 도서관정보나루 API를 연동해 공공도서관 검색, 대출 현황, 독서 통계를 제공하는 MCP 서버입니다.
 
@@ -154,7 +154,7 @@ Only projects meeting all of the following criteria are listed.
 
 **[KMA-WEATHER-MCP](https://github.com/woongaro/KMA-WEATHER-MCP)** – 기상청 단기예보 OpenAPI로 현재 날씨와 예보 도구를 제공하는 MCP 서버입니다.
 
-**[korea_weather](https://github.com/ohhan777/korea_weather)** – 기상청 단기예보 조회서비스 API를 연동해 한국 날씨 정보를 제공하는 MCP 서버입니다.
+**[korea_weather](https://github.com/ohhan777/korea_weather)** – 기상청 단기예보 API를 연동해 한국 날씨 정보를 제공하는 MCP 서버입니다.
 
 **[mcp-get-weather](https://github.com/Kinuk97/mcp-get-weather)** – 기상청 단기예보 실황 API 기반으로 현재 한국 날씨를 조회하는 MCP 서버입니다.
 
