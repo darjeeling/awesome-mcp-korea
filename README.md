@@ -62,6 +62,8 @@ Only projects meeting all of the following criteria are listed.
 
 *(Example)* **[coupang-mcp](https://example.com)** – 쿠팡 상품 검색 및 가격 정보를 제공하는 MCP 서버.
 
+**[daiso-mcp](https://github.com/hmmhmmhm/daiso-mcp)** – 주변 다이소 매장을 검색하고, 원하는 상품의 재고 여부 및 가격을 조회하는 MCP 서버. ChatGPT, Claude, Grok 등 AI 앱과 연동 가능.
+
 ---
 
 ### 🏦 Finance & Tax
