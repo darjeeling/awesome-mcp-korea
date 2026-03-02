@@ -60,6 +60,10 @@ Only projects meeting all of the following criteria are listed.
 
 > MCP servers related to Korean law, court rulings, and government public services.
 
+**[chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp)** – 국가법령정보 Open API를 기반으로 법령·판례·행정규칙 등을 검색·조회·분석하는 MCP 서버입니다.
+
+**[SeoNaRu/korean-law-mcp](https://github.com/SeoNaRu/korean-law-mcp)** – 국가법령정보센터 Open API로 한국 법령·판례·행정규칙 검색을 제공하는 MCP 서버입니다.
+
 ---
 
 ### 🛒 Commerce & Retail
@@ -78,6 +82,12 @@ Only projects meeting all of the following criteria are listed.
 
 > MCP servers related to Korean finance, tax, stocks, and cryptocurrency.
 
+**[korea-stock-analyzer-mcp](https://github.com/Mrbaeksang/korea-stock-analyzer-mcp)** – 한국 주식의 재무·기술지표·DCF·뉴스·수급을 통합 분석하는 MCP 서버입니다.
+
+**[korea-stock-mcp](https://github.com/jjlabsio/korea-stock-mcp)** – DART와 KRX 공식 API를 연동해 공시·재무제표·주가 데이터를 조회하는 한국 주식 분석 MCP 서버입니다.
+
+**[koreainvestment-mcp](https://github.com/koreainvestment/koreainvestment-mcp)** – 한국투자증권 API를 자연어로 검색해 필요한 금융 API를 찾을 수 있는 MCP 서버입니다.
+
 ---
 
 ### 🏠 Real Estate
@@ -85,6 +95,8 @@ Only projects meeting all of the following criteria are listed.
 > 한국 부동산 정보, 등기, 청약 관련 MCP 서버
 
 > MCP servers related to Korean real estate, property registration, and housing subscriptions.
+
+**[real-estate-mcp](https://github.com/tae0y/real-estate-mcp)** – 국토교통부·온비드·청약홈 데이터를 기반으로 한국 부동산 매매·전월세·청약 정보를 제공하는 MCP 서버입니다.
 
 ---
 
@@ -96,11 +108,29 @@ Only projects meeting all of the following criteria are listed.
 
 ---
 
+### 🌏 Tourism & Travel
+
+> 한국 관광지, 지역 여행 정보, 방문자 서비스 관련 MCP 서버
+
+> MCP servers related to Korean tourism, travel destinations, and visitor services.
+
+**[mcp-korea-tourism-api](https://github.com/harimkang/mcp-korea-tourism-api)** – 한국관광공사 TourAPI를 기반으로 관광지·행사·숙박·맛집 정보를 검색하는 MCP 서버입니다.
+
+**[mcp-visit-korea](https://github.com/pjookim/mcp-visit-korea)** – 지역·키워드·위치 기반으로 한국 관광 정보를 조회하는 MCP 서버입니다.
+
+---
+
 ### 📊 Public Data
 
 > 한국 공공데이터, 기상, 교통, 보건 관련 MCP 서버
 
 > MCP servers related to Korean public data, weather, transportation, and health.
+
+**[data-go-mcp-servers](https://github.com/Koomook/data-go-mcp-servers)** – data.go.kr의 다양한 공공 API를 MCP 서버 패키지로 제공하는 통합 프로젝트입니다.
+
+**[korea-stats-mcp](https://github.com/Dayoooun/korea-stats-mcp)** – KOSIS OpenAPI 기반으로 한국 통계를 자연어로 검색·분석하는 MCP 서버입니다.
+
+**[korea_weather](https://github.com/ohhan777/korea_weather)** – 기상청 단기예보 API를 연동해 한국 날씨 정보를 제공하는 MCP 서버입니다.
 
 ---
 
@@ -109,6 +139,8 @@ Only projects meeting all of the following criteria are listed.
 > 한국어 자연어 처리, 형태소 분석, 번역 관련 MCP 서버
 
 > MCP servers related to Korean NLP, morphological analysis, and translation.
+
+**[mcp-korean-spell](https://github.com/winterjung/mcp-korean-spell)** – 한국어 맞춤법과 문법 오류를 교정하는 도구를 제공하는 MCP 서버입니다.
 
 ---
 
