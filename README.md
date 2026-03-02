@@ -50,8 +50,6 @@ Only projects meeting all of the following criteria are listed.
 
 > MCP servers related to Korean law, court rulings, and government public services.
 
-*(Example)* **[korean-law-mcp](https://example.com)** – 국가법령정보센터 API를 통해 법령 및 판례를 조회하는 MCP 서버.
-
 ---
 
 ### 🛒 Commerce & Retail
@@ -59,8 +57,6 @@ Only projects meeting all of the following criteria are listed.
 > 한국 전자상거래, 오픈마켓, 쇼핑 서비스 관련 MCP 서버
 
 > MCP servers related to Korean e-commerce, open markets, and shopping services.
-
-*(Example)* **[coupang-mcp](https://example.com)** – 쿠팡 상품 검색 및 가격 정보를 제공하는 MCP 서버.
 
 **[daiso-mcp](https://github.com/hmmhmmhm/daiso-mcp)** – 주변 다이소 매장을 검색하고, 원하는 상품의 재고 여부 및 가격을 조회하는 MCP 서버. ChatGPT, Claude, Grok 등 AI 앱과 연동 가능.
 
@@ -72,8 +68,6 @@ Only projects meeting all of the following criteria are listed.
 
 > MCP servers related to Korean finance, tax, stocks, and cryptocurrency.
 
-*(Example)* **[hometax-mcp](https://example.com)** – 국세청 홈택스 API를 연동하는 MCP 서버.
-
 ---
 
 ### 🏠 Real Estate
@@ -81,8 +75,6 @@ Only projects meeting all of the following criteria are listed.
 > 한국 부동산 정보, 등기, 청약 관련 MCP 서버
 
 > MCP servers related to Korean real estate, property registration, and housing subscriptions.
-
-*(Example)* **[realestate-kr-mcp](https://example.com)** – 국토교통부 부동산 실거래가 데이터를 조회하는 MCP 서버.
 
 ---
 
@@ -92,8 +84,6 @@ Only projects meeting all of the following criteria are listed.
 
 > MCP servers related to Korean maps, addresses, and location services.
 
-*(Example)* **[kakaomap-mcp](https://example.com)** – 카카오맵 API를 활용한 주소 검색 및 경로 안내 MCP 서버.
-
 ---
 
 ### 📊 Public Data
@@ -101,8 +91,6 @@ Only projects meeting all of the following criteria are listed.
 > 한국 공공데이터, 기상, 교통, 보건 관련 MCP 서버
 
 > MCP servers related to Korean public data, weather, transportation, and health.
-
-*(Example)* **[data-go-kr-mcp](https://example.com)** – 공공데이터포털(data.go.kr) API를 연동하는 MCP 서버.
 
 ---
 
@@ -112,8 +100,6 @@ Only projects meeting all of the following criteria are listed.
 
 > MCP servers related to Korean NLP, morphological analysis, and translation.
 
-*(Example)* **[korean-nlp-mcp](https://example.com)** – 한국어 형태소 분석 및 개체명 인식을 제공하는 MCP 서버.
-
 ---
 
 ### 🧩 Miscellaneous
@@ -121,8 +107,6 @@ Only projects meeting all of the following criteria are listed.
 > 위 카테고리에 속하지 않는 기타 한국 생태계 관련 MCP 서버
 
 > Other Korea-specific MCP servers not covered by the categories above.
-
-*(Example)* **[naver-search-mcp](https://example.com)** – 네이버 검색 API를 연동하는 MCP 서버.
 
 ---
 
