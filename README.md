@@ -62,6 +62,10 @@ Only projects meeting all of the following criteria are listed.
 
 **[chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp)** – 국가법령정보 Open API를 기반으로 법령·판례·행정규칙 등을 검색·조회·분석하는 MCP 서버입니다.
 
+**[finalchild/law-mcp](https://github.com/finalchild/law-mcp)** – open.law.go.kr API를 통해 한국 법령 데이터를 조회하는 MCP 서버입니다.
+
+**[rabqatab/LexLink-ko-mcp](https://github.com/rabqatab/LexLink-ko-mcp)** – 국가법령정보센터 Open API로 법령·판례·행정규칙을 구조적으로 제공하고 시맨틱 검색(aiSearch)을 지원하는 MCP 서버입니다.
+
 **[SeoNaRu/korean-law-mcp](https://github.com/SeoNaRu/korean-law-mcp)** – 국가법령정보센터 Open API로 한국 법령·판례·행정규칙 검색을 제공하는 MCP 서버입니다.
 
 ---
@@ -89,6 +93,8 @@ Only projects meeting all of the following criteria are listed.
 **[korea-stock-mcp](https://github.com/jjlabsio/korea-stock-mcp)** – DART와 KRX 공식 API를 연동해 공시·재무제표·주가 데이터를 조회하는 한국 주식 분석 MCP 서버입니다.
 
 **[koreainvestment-mcp](https://github.com/koreainvestment/koreainvestment-mcp)** – 한국투자증권 API를 자연어로 검색해 필요한 금융 API를 찾을 수 있는 MCP 서버입니다.
+
+**[pykrx-mcp](https://github.com/sharebook-kr/pykrx-mcp)** – pykrx 라이브러리 기반으로 KOSPI·KOSDAQ·KONEX 주가, 재무제표, 투자자별 수급 및 공매도 데이터를 제공하는 MCP 서버입니다.
 
 ---
 
@@ -131,6 +137,8 @@ Only projects meeting all of the following criteria are listed.
 > MCP servers related to Korean search portals and trend data analysis.
 
 **[naver-search-mcp](https://github.com/isnow890/naver-search-mcp)** – 네이버 검색 API와 데이터랩 API를 연동해 한국 서비스 특화 검색·트렌드 분석을 제공하는 MCP 서버입니다.
+
+**[py-mcp-naver-search](https://github.com/jikime/py-mcp-naver-search)** – 네이버 검색 API로 다양한 콘텐츠 검색 결과를 LLM이 처리하기 쉬운 구조화된 텍스트로 제공하는 MCP 서버입니다.
 
 ---
 
