@@ -200,6 +200,8 @@ Only projects meeting all of the following criteria are listed.
 
 > MCP servers related to Korean NLP, morphological analysis, and translation.
 
+**[ko-stdict-mcp](https://github.com/dahlia/ko-stdict-mcp)** – 표준국어대사전 전체 데이터를 SQLite에 저장해 빠르고 안정적으로 조회하는 MCP 서버입니다. 매번 외부 서버에 요청하는 방식과 달리 레이트 리미트 없이 표제어·뜻풀이·발음·용례 등을 검색할 수 있습니다.
+
 **[mcp-korean-spell](https://github.com/winterjung/mcp-korean-spell)** – 한국어 맞춤법과 문법 오류를 교정하는 도구를 제공하는 MCP 서버입니다.
 
 ---
