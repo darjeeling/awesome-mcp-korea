@@ -64,7 +64,7 @@ Only projects meeting all of the following criteria are listed.
 
 **[finalchild/law-mcp](https://github.com/finalchild/law-mcp)** – open.law.go.kr API를 통해 한국 법령 데이터를 조회하는 MCP 서버입니다.
 
-**[rabqatab/LexLink-ko-mcp](https://github.com/rabqatab/LexLink-ko-mcp)** – 국가법령정보센터 Open API로 법령·판례·행정규칙을 구조적으로 제공하고 시맨틱 검색(aiSearch)을 지원하는 MCP 서버입니다.
+**[rabqatab/LexLink-ko-mcp](https://github.com/rabqatab/LexLink-ko-mcp)** – 국가법령정보센터 Open API 기반으로 법령·판례·행정규칙·헌재결정례·행정심판례를 구조적으로 제공하고 시맨틱 검색(aiSearch)을 지원하는 MCP 서버입니다.
 
 **[SeoNaRu/korean-law-mcp](https://github.com/SeoNaRu/korean-law-mcp)** – 국가법령정보센터 Open API로 한국 법령·판례·행정규칙 검색을 제공하는 MCP 서버입니다.
 
@@ -164,7 +164,7 @@ Only projects meeting all of the following criteria are listed.
 
 **[be-node-seoul-data-mcp](https://github.com/pinnaclesoft-ko/be-node-seoul-data-mcp)** – 서울시 공공데이터 API(지하철 승하차·문화행사 등)를 조회하는 MCP 서버 예제입니다.
 
-**[data-go-mcp-servers](https://github.com/Koomook/data-go-mcp-servers)** – data.go.kr의 다양한 한국 공공기관 API를 MCP 서버 패키지로 제공하는 통합 프로젝트입니다.
+**[data-go-mcp-servers](https://github.com/Koomook/data-go-mcp-servers)** – data.go.kr 기반의 사업자등록 상태조회, 조달·계약, 금융정보 등 다양한 공공데이터 API를 개별 MCP 서버 패키지로 제공하는 프로젝트입니다.
 
 **[data4library-mcp](https://github.com/isnow890/data4library-mcp)** – 도서관정보나루 API를 연동해 공공도서관 검색, 대출 현황, 독서 통계를 제공하는 MCP 서버입니다.
 
