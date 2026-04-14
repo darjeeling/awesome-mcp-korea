@@ -62,6 +62,8 @@ Only projects meeting all of the following criteria are listed.
 
 **[chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp)** – 국가법령정보 Open API를 기반으로 법령·판례·행정규칙 등을 검색·조회·분석하는 MCP 서버입니다.
 
+**[hollobit/assembly-api-mcp](https://github.com/hollobit/assembly-api-mcp)** – 대한민국 국회 Open API와 국민참여입법센터·NABO API를 연동해 국회의원·의안·일정·회의록·청원·예산정책처 자료를 조회하는 MCP 서버입니다.
+
 **[finalchild/law-mcp](https://github.com/finalchild/law-mcp)** – open.law.go.kr API를 통해 한국 법령 데이터를 조회하는 MCP 서버입니다.
 
 **[rabqatab/LexLink-ko-mcp](https://github.com/rabqatab/LexLink-ko-mcp)** – 국가법령정보센터 Open API 기반으로 법령·판례·행정규칙·헌재결정례·행정심판례를 구조적으로 제공하고 시맨틱 검색(aiSearch)을 지원하는 MCP 서버입니다.
@@ -127,6 +129,8 @@ Only projects meeting all of the following criteria are listed.
 **[mcp-naver-maps](https://github.com/yunkee-lee/mcp-naver-maps)** – 네이버 지도 API(지오코딩)와 네이버 검색 API(로컬 검색)를 연동하는 MCP 서버입니다.
 
 **[kakao-navigation-mcp-server](https://github.com/CaChiJ/kakao-navigation-mcp-server)** – 카카오 모빌리티 및 카카오맵 API를 연동해 위치 검색(지오코딩)과 도보·자동차 길찾기 서비스를 제공하는 MCP 서버입니다.
+
+**[jeong-sik/kakao-api-mcp-server](https://github.com/jeong-sik/kakao-api-mcp-server)** – 카카오맵 API와 Daum 검색 API를 연동해 장소 검색, 좌표-주소 변환, 길찾기, 웹·이미지·블로그·카페 검색을 제공하는 MCP 서버입니다.
 
 **[mcp-server-kakao-map](https://github.com/cgoinglove/mcp-server-kakao-map)** – 카카오맵 API 키워드 검색을 통해 한국 내 식당·카페·관광명소 등 장소를 추천하는 MCP 서버입니다.
 
