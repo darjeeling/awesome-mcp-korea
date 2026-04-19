@@ -259,4 +259,5 @@ This list is released under the [CC0 1.0 Universal](https://creativecommons.org/
 ## 관련 프로젝트 (Related Projects)
 
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) – A curated list of MCP servers.
+- [BytesAgain](https://bytesagain.com) - MCP SSE로 6만개+ AI 에이전트 스킬 검색. 한국어 포함 7개 언어 지원. 무료. `https://bytesagain.com/api/mcp/sse`
 - [modelcontextprotocol](https://github.com/modelcontextprotocol) – Official MCP specification and SDKs.
