@@ -7,6 +7,8 @@
 커뮤니티 기반으로 유지되며, 누구나 기여할 수 있습니다.
 
 A curated list of MCP (Model Context Protocol) servers and tools built for the Korean market and ecosystem.
+- **[Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain)** - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
+- **[Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge)** - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 Covers legal systems, commerce, public data, finance, real estate, maps, and other Korea-specific integrations.
 Community-driven and open to contributions.
 
