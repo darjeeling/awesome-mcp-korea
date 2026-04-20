@@ -78,6 +78,8 @@ Only projects meeting all of the following criteria are listed.
 
 > MCP servers related to Korean e-commerce, open markets, and shopping services.
 
+**[marketdesigners/da24-mcp-server](https://github.com/marketdesigners/da24-mcp-server)** – 짐 목록으로 소형이사 예상 견적을 계산하고 다이사 플랫폼에 이사 문의를 접수할 수 있는 MCP 서버로, Claude, ChatGPT, Grok, Gemini CLI 등과 연동 가능합니다.
+
 **[daiso-mcp](https://github.com/hmmhmmhm/daiso-mcp)** – 주변 다이소 매장을 검색하고, 원하는 상품의 재고 여부 및 가격을 조회하는 MCP 서버. ChatGPT, Claude, Grok 등 AI 앱과 연동 가능.
 
 **[edward-kim-dev/kr-pc-deals-mcp](https://github.com/edward-kim-dev/kr-pc-deals-mcp)** – 다나와·컴퓨존 PC 부품 최저가 검색, 가격 비교, 가격 이력, 빌드 견적, CPU-메인보드-RAM 호환성 체크를 제공하는 MCP 서버입니다.
