@@ -62,6 +62,8 @@ Only projects meeting all of the following criteria are listed.
 
 **[chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp)** – 국가법령정보 Open API를 기반으로 법령·판례·행정규칙 등을 검색·조회·분석하는 MCP 서버입니다.
 
+**[ChangooLee/mcp-kr-legislation](https://github.com/ChangooLee/mcp-kr-legislation)** – 법제처 OPEN API를 통합해 법령·판례·행정규칙·자치법규·조약·별표서식 등 한국 법률 정보를 조회하는 MCP 서버입니다.
+
 **[hollobit/assembly-api-mcp](https://github.com/hollobit/assembly-api-mcp)** – 대한민국 국회 Open API와 국민참여입법센터·NABO API를 연동해 국회의원·의안·일정·회의록·청원·예산정책처 자료를 조회하는 MCP 서버입니다.
 
 **[finalchild/law-mcp](https://github.com/finalchild/law-mcp)** – open.law.go.kr API를 통해 한국 법령 데이터를 조회하는 MCP 서버입니다.
@@ -99,6 +101,8 @@ Only projects meeting all of the following criteria are listed.
 **[koreainvestment-mcp](https://github.com/koreainvestment/koreainvestment-mcp)** – 한국투자증권 API를 자연어로 검색해 필요한 금융 API를 찾을 수 있는 MCP 서버입니다.
 
 **[pykrx-mcp](https://github.com/sharebook-kr/pykrx-mcp)** – pykrx 라이브러리 기반으로 KOSPI·KOSDAQ·KONEX 주가, 재무제표, 투자자별 수급 및 공매도 데이터를 제공하는 MCP 서버입니다.
+
+**[snaiws/DART-mcp-server](https://github.com/snaiws/DART-mcp-server)** – 금융감독원 DART API를 활용해 상장기업 공시, 기업 개황, 재무 정보 등을 조회하는 MCP 서버입니다.
 
 ---
 
@@ -175,6 +179,8 @@ Only projects meeting all of the following criteria are listed.
 **[k-mfds-fooddb-mcp-server](https://github.com/slicequeue/k-mfds-fooddb-mcp-server)** – 식약처 식품영양성분 DB OpenAPI를 검색·조회할 수 있는 MCP 서버입니다.
 
 **[k-targo-subway-mcp-server](https://github.com/slicequeue/k-targo-subway-mcp-server)** – 국토교통부 TAGO 지하철정보 API 기반으로 역 검색·시간표 조회를 제공하는 MCP 서버입니다.
+
+**[korea-public-data-mcp](https://github.com/hjsh200219/korea-public-data-mcp)** – 국가법령정보센터, DART, 공공데이터포털 API를 통합해 법령·판례·기업공시·생활정보를 조회하는 MCP 서버입니다.
 
 **[korea-stats-mcp](https://github.com/Dayoooun/korea-stats-mcp)** – KOSIS OpenAPI 기반으로 한국 통계를 자연어로 검색·분석하는 MCP 서버입니다.
 
