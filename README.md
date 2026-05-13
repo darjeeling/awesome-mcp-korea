@@ -68,9 +68,15 @@ Only projects meeting all of the following criteria are listed.
 
 **[finalchild/law-mcp](https://github.com/finalchild/law-mcp)** – open.law.go.kr API를 통해 한국 법령 데이터를 조회하는 MCP 서버입니다.
 
+**[DrMoony/koregx](https://github.com/DrMoony/koregx)** – 한국 헬스케어 법령, 행정해석, 식약처·복지부 행정규칙, HIRA 결정을 통합 조회하는 웹 서비스 및 MCP 서버입니다.
+
+**[seung23/lawtutor-mcp](https://github.com/seung23/lawtutor-mcp)** – 국가법령정보센터 데이터를 기반으로 7급 공무원시험 행정법·헌법 학습용 RAG 검색 도구를 제공하는 MCP 서버입니다.
+
 **[rabqatab/LexLink-ko-mcp](https://github.com/rabqatab/LexLink-ko-mcp)** – 국가법령정보센터 Open API 기반으로 법령·판례·행정규칙·헌재결정례·행정심판례를 구조적으로 제공하고 시맨틱 검색(aiSearch)을 지원하는 MCP 서버입니다.
 
 **[SeoNaRu/korean-law-mcp](https://github.com/SeoNaRu/korean-law-mcp)** – 국가법령정보센터 Open API로 한국 법령·판례·행정규칙 검색을 제공하는 MCP 서버입니다.
+
+**[workbookbulb863/korean-law-alio-mcp](https://github.com/workbookbulb863/korean-law-alio-mcp)** – 국가법령정보센터와 ALIO 공공기관 내부규정을 함께 검색·비교·분석하는 MCP 서버입니다.
 
 ---
 
@@ -98,9 +104,13 @@ Only projects meeting all of the following criteria are listed.
 
 **[korea-stock-mcp](https://github.com/jjlabsio/korea-stock-mcp)** – DART와 KRX 공식 API를 연동해 공시·재무제표·주가 데이터를 조회하는 한국 주식 분석 MCP 서버입니다.
 
+**[aesthetic-legalism5470/korean-dart-mcp](https://github.com/aesthetic-legalism5470/korean-dart-mcp)** – OpenDART API를 기반으로 공시·재무·지분·XBRL 데이터를 조회하고 첨부 문서를 처리하는 MCP 서버입니다.
+
 **[koreainvestment-mcp](https://github.com/koreainvestment/koreainvestment-mcp)** – 한국투자증권 API를 자연어로 검색해 필요한 금융 API를 찾을 수 있는 MCP 서버입니다.
 
 **[pykrx-mcp](https://github.com/sharebook-kr/pykrx-mcp)** – pykrx 라이브러리 기반으로 KOSPI·KOSDAQ·KONEX 주가, 재무제표, 투자자별 수급 및 공매도 데이터를 제공하는 MCP 서버입니다.
+
+**[redoxnet/mcp-lsopenapi](https://github.com/redoxnet/mcp-lsopenapi)** – LS증권 OpenAPI를 통해 국내 주식 시세, 차트, 지표 데이터를 자연어 도구로 조회하는 MCP 서버입니다.
 
 **[snaiws/DART-mcp-server](https://github.com/snaiws/DART-mcp-server)** – 금융감독원 DART API를 활용해 상장기업 공시, 기업 개황, 재무 정보 등을 조회하는 MCP 서버입니다.
 
@@ -182,6 +192,10 @@ Only projects meeting all of the following criteria are listed.
 
 **[korea-public-data-mcp](https://github.com/hjsh200219/korea-public-data-mcp)** – 국가법령정보센터, DART, 공공데이터포털 API를 통합해 법령·판례·기업공시·생활정보를 조회하는 MCP 서버입니다.
 
+**[jayjodev/vivory-mcp](https://github.com/jayjodev/vivory-mcp)** – KOSIS 통계를 비롯한 한국 공공데이터를 MCP 서버 패키지로 제공하는 Vivory 기반 프로젝트입니다.
+
+**[jaykim429/korea-statistic-MCP-cginside](https://github.com/jaykim429/korea-statistic-MCP-cginside)** – KOSIS OpenAPI를 자연어 질의, 통계 조회, 분석, SVG 시각화로 연결하는 MCP 서버입니다.
+
 **[korea-stats-mcp](https://github.com/Dayoooun/korea-stats-mcp)** – KOSIS OpenAPI 기반으로 한국 통계를 자연어로 검색·분석하는 MCP 서버입니다.
 
 **[opendata-mcp](https://github.com/ceami/opendata-mcp)** – 공공데이터포털 OpenAPI를 검색하고 표준 문서 기반으로 API를 호출하는 MCP 서버입니다.
@@ -197,6 +211,8 @@ Only projects meeting all of the following criteria are listed.
 **[KMA-WEATHER-MCP](https://github.com/woongaro/KMA-WEATHER-MCP)** – 기상청 단기예보 OpenAPI로 현재 날씨와 예보 도구를 제공하는 MCP 서버입니다.
 
 **[korea_weather](https://github.com/ohhan777/korea_weather)** – 기상청 단기예보 API를 연동해 한국 날씨 정보를 제공하는 MCP 서버입니다.
+
+**[korea-weather-mcp](https://github.com/worker-ants/korea-weather-mcp)** – 기상청 API 허브의 단기예보·중기예보·기상특보·영향예보·구역정보를 제공하는 MCP 서버입니다.
 
 **[mcp-get-weather](https://github.com/Kinuk97/mcp-get-weather)** – 기상청 단기예보 실황 API 기반으로 현재 한국 날씨를 조회하는 MCP 서버입니다.
 
@@ -241,6 +257,8 @@ Only projects meeting all of the following criteria are listed.
 > 위 카테고리에 속하지 않는 기타 한국 생태계 관련 MCP 서버
 
 > Other Korea-specific MCP servers not covered by the categories above.
+
+**[kr-movie-tv-mcp](https://github.com/carasjung/kr-movie-tv-mcp)** – 한국 영화와 드라마의 박스오피스, 시청률, 수상 이력, 스트리밍 제공 여부, 출연진 정보를 조회하는 MCP 서버입니다.
 
 ---
 
