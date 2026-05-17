@@ -86,7 +86,7 @@ Only projects meeting all of the following criteria are listed.
 
 > MCP servers related to Korean e-commerce, open markets, and shopping services.
 
-**[daiso-mcp](https://github.com/hmmhmmhm/daiso-mcp)** – 주변 다이소 매장을 검색하고, 원하는 상품의 재고 여부 및 가격을 조회하는 MCP 서버. ChatGPT, Claude, Grok 등 AI 앱과 연동 가능.
+**[daiso-mcp](https://github.com/hmmhmmhm/daiso-mcp)** – 다이소와 편의점, 마트, 올리브영, 영화관 조회를 MCP 서버, CLI, Codex Skill로 제공하는 한국 생활 서비스 검색 도구입니다.
 
 **[edward-kim-dev/kr-pc-deals-mcp](https://github.com/edward-kim-dev/kr-pc-deals-mcp)** – 다나와·컴퓨존 PC 부품 최저가 검색, 가격 비교, 가격 이력, 빌드 견적, CPU-메인보드-RAM 호환성 체크를 제공하는 MCP 서버입니다.
 
