@@ -114,6 +114,7 @@ Only projects meeting all of the following criteria are listed.
 
 **[snaiws/DART-mcp-server](https://github.com/snaiws/DART-mcp-server)** – 금융감독원 DART API를 활용해 상장기업 공시, 기업 개황, 재무 정보 등을 조회하는 MCP 서버입니다.
 
+**[thebrierfox/the-stall](https://github.com/thebrierfox/the-stall)** – 업비트 암호화폐 이동 종목, KRW/USD 김치 프리미엄, 코스피·코스닥 주식 이동 종목 등 한국 시장 데이터를 x402 USDC 호출당 결제 방식으로 제공하는 MCP 서버입니다.
 ---
 
 ### 🏠 Real Estate
