@@ -68,6 +68,8 @@ Only projects meeting all of the following criteria are listed.
 
 **[finalchild/law-mcp](https://github.com/finalchild/law-mcp)** – open.law.go.kr API를 통해 한국 법령 데이터를 조회하는 MCP 서버입니다.
 
+**[gitbosung/open-ALIO-mcp](https://github.com/gitbosung/open-ALIO-mcp)** – ALIO·ALIO Plus 기반 공공기관 경영공시와 정부·공공기관 관련 법령·지침·대민서비스 정보를 조회·분석하는 MCP 서버입니다.
+
 **[DrMoony/koregx](https://github.com/DrMoony/koregx)** – 한국 헬스케어 법령, 행정해석, 식약처·복지부 행정규칙, HIRA 결정을 통합 조회하는 웹 서비스 및 MCP 서버입니다.
 
 **[seung23/lawtutor-mcp](https://github.com/seung23/lawtutor-mcp)** – 국가법령정보센터 데이터를 기반으로 7급 공무원시험 행정법·헌법 학습용 RAG 검색 도구를 제공하는 MCP 서버입니다.
