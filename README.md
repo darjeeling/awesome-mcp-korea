@@ -113,6 +113,7 @@ Only projects meeting all of the following criteria are listed.
 **[redoxnet/mcp-lsopenapi](https://github.com/redoxnet/mcp-lsopenapi)** – LS증권 OpenAPI를 통해 국내 주식 시세, 차트, 지표 데이터를 자연어 도구로 조회하는 MCP 서버입니다.
 
 **[snaiws/DART-mcp-server](https://github.com/snaiws/DART-mcp-server)** – 금융감독원 DART API를 활용해 상장기업 공시, 기업 개황, 재무 정보 등을 조회하는 MCP 서버입니다.
+**[tossinvest-mcp](https://github.com/scjang01/tossinvest-mcp)** – 토스증권 Open API를 이용해 실시간 시세, 호가, 캔들, 보유 주식, 매수 가능 금액, 주문 생성/정정/취소 등의 기능을 제공하는 MCP 서버입니다.
 
 ---
 
