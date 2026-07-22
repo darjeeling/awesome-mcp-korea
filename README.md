@@ -282,5 +282,6 @@ This list is released under the [CC0 1.0 Universal](https://creativecommons.org/
 
 ## 관련 프로젝트 (Related Projects)
 
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI pentest platform (web, API, AD, Kubernetes), MCP host, proof of exploitation.
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) – A curated list of MCP servers.
 - [modelcontextprotocol](https://github.com/modelcontextprotocol) – Official MCP specification and SDKs.
