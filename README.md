@@ -198,6 +198,8 @@ Only projects meeting all of the following criteria are listed.
 
 **[korea-stats-mcp](https://github.com/Dayoooun/korea-stats-mcp)** – KOSIS OpenAPI 기반으로 한국 통계를 자연어로 검색·분석하는 MCP 서버입니다.
 
+**[mcportal](https://github.com/yonghwan1106/mcportal)** – 공공데이터포털(data.go.kr) API 명세를 OpenAPI 3.1로 정규화해 MCP 서버로 컴파일하고, 일일 호출 상한·백오프·캐시를 갖춘 런타임으로 호출을 중계합니다.
+
 **[opendata-mcp](https://github.com/ceami/opendata-mcp)** – 공공데이터포털 OpenAPI를 검색하고 표준 문서 기반으로 API를 호출하는 MCP 서버입니다.
 
 ---
