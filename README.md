@@ -98,6 +98,8 @@ Only projects meeting all of the following criteria are listed.
 
 > MCP servers related to Korean finance, tax, stocks, and cryptocurrency.
 
+**[aikstockdata](https://github.com/na77tech-creator/aikstockdata)** – 원격 HTTP로 접속하는 MCP 서버로, KOSPI·KOSDAQ 종가와 DART 공시를 접수 시각(HH:MM)까지 제공하고 잠정 실적과 조건별 종목 검색을 지원합니다.
+
 **[KIS_MCP_Server](https://github.com/migusdn/KIS_MCP_Server)** – 한국투자증권(KIS) REST API를 통해 국내·해외 주식 시세 조회와 주문 기능을 제공하는 MCP 서버입니다.
 
 **[korea-stock-analyzer-mcp](https://github.com/Mrbaeksang/korea-stock-analyzer-mcp)** – 한국 주식의 재무·기술지표·DCF·뉴스·수급을 통합 분석하는 MCP 서버입니다.
