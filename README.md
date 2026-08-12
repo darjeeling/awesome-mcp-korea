@@ -78,6 +78,8 @@ Only projects meeting all of the following criteria are listed.
 
 **[workbookbulb863/korean-law-alio-mcp](https://github.com/workbookbulb863/korean-law-alio-mcp)** – 국가법령정보센터와 ALIO 공공기관 내부규정을 함께 검색·비교·분석하는 MCP 서버입니다.
 
+**[sallim-app/contract-compass](https://github.com/sallim-app/contract-compass)** – 국가계약법·지방계약법 등 공공계약 법령을 결정론적 룰엔진으로 판정해 계약방법(경쟁입찰·수의계약 등)과 법령 근거를 제시하고, 예규·판례·법령해석례를 조회하는 MCP 서버입니다.
+
 ---
 
 ### 🛒 Commerce & Retail
