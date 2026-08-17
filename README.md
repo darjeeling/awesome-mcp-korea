@@ -98,6 +98,8 @@ Only projects meeting all of the following criteria are listed.
 
 > MCP servers related to Korean finance, tax, stocks, and cryptocurrency.
 
+**[finlight-mcp](https://github.com/callbk/finlight-mcp)** – finlight API를 활용해 한국어 소스를 포함한 실시간 금융 뉴스를 티커·기간별로 조회하는 MCP 서버입니다.
+
 **[KIS_MCP_Server](https://github.com/migusdn/KIS_MCP_Server)** – 한국투자증권(KIS) REST API를 통해 국내·해외 주식 시세 조회와 주문 기능을 제공하는 MCP 서버입니다.
 
 **[korea-stock-analyzer-mcp](https://github.com/Mrbaeksang/korea-stock-analyzer-mcp)** – 한국 주식의 재무·기술지표·DCF·뉴스·수급을 통합 분석하는 MCP 서버입니다.
