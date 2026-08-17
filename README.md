@@ -128,6 +128,8 @@ Only projects meeting all of the following criteria are listed.
 
 **[real-estate-mcp](https://github.com/tae0y/real-estate-mcp)** – 국토교통부·온비드·청약홈 데이터를 기반으로 한국 부동산 매매·전월세·청약 정보를 제공하는 MCP 서버입니다.
 
+**[korea-realty](https://github.com/sallim-app/korea-realty)** – 법원경매·국토부 실거래·청약 공고 원문·대출/세금 계산을 도구 47종으로 제공하는 원격 MCP 서버입니다. 설치·API 키 없이 주소만 등록하면 동작합니다.
+
 ---
 
 ### 🗺 Maps & Address
