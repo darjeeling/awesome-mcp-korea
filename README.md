@@ -114,6 +114,8 @@ Only projects meeting all of the following criteria are listed.
 
 **[snaiws/DART-mcp-server](https://github.com/snaiws/DART-mcp-server)** – 금융감독원 DART API를 활용해 상장기업 공시, 기업 개황, 재무 정보 등을 조회하는 MCP 서버입니다.
 
+**[finlight-mcp](https://github.com/callbk/finlight-mcp)** – finlight API를 활용해 한국어 소스를 포함한 실시간 금융 뉴스를 티커·기간별로 조회하는 MCP 서버입니다.
+
 ---
 
 ### 🏠 Real Estate
