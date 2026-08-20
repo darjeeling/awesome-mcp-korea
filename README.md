@@ -200,6 +200,7 @@ Only projects meeting all of the following criteria are listed.
 
 **[opendata-mcp](https://github.com/ceami/opendata-mcp)** – 공공데이터포털 OpenAPI를 검색하고 표준 문서 기반으로 API를 호출하는 MCP 서버입니다.
 
+**[swansong80/neis-mcp](https://github.com/swansong80/neis-mcp)** – 교육부 나이스(NEIS) Open API를 연동해 전국 초·중·고등학교의 급식식단, 시간표, 학사일정, 학교정보를 조회하는 MCP 서버입니다.
 ---
 
 ### 🌦 Weather
