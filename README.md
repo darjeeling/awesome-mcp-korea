@@ -160,6 +160,8 @@ Only projects meeting all of the following criteria are listed.
 
 **[py-mcp-naver-search](https://github.com/jikime/py-mcp-naver-search)** – 네이버 검색 API로 다양한 콘텐츠 검색 결과를 LLM이 처리하기 쉬운 구조화된 텍스트로 제공하는 MCP 서버입니다.
 
+**[Secret MCP](https://github.com/yyeongjin/secret_mcp)** – GDWEB의 최신 웹디자인 사례를 검색하고 결과마다 독립된 MCP 샘플링 요청으로 근거 기반의 구현용 DESIGN_INDEX 명세를 생성하는 TypeScript MCP 서버입니다.
+
 ---
 
 ### 🌏 Tourism & Travel
