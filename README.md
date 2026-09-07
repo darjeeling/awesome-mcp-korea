@@ -183,6 +183,7 @@ Only projects meeting all of the following criteria are listed.
 **[be-node-seoul-data-mcp](https://github.com/pinnaclesoft-ko/be-node-seoul-data-mcp)** – 서울시 공공데이터 API(지하철 승하차·문화행사 등)를 조회하는 MCP 서버 예제입니다.
 
 **[data-go-mcp-servers](https://github.com/Koomook/data-go-mcp-servers)** – data.go.kr 기반의 사업자등록 상태조회, 조달·계약, 금융정보 등 다양한 공공데이터 API를 개별 MCP 서버 패키지로 제공하는 프로젝트입니다.
+**[kbv-server](https://github.com/Wonderfulian/kbv-server) – 국세청 공식 데이터로 사업자등록 상태(계속/휴업/폐업)와 대표자 진위를 실시간 확인하는 원격 MCP 서버입니다. 설치·API 키 없이 URL 하나로 사용하며 최대 100건 일괄 검증을 지원합니다.
 
 **[data4library-mcp](https://github.com/isnow890/data4library-mcp)** – 도서관정보나루 API를 연동해 공공도서관 검색, 대출 현황, 독서 통계를 제공하는 MCP 서버입니다.
 
