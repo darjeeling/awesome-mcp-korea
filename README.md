@@ -70,6 +70,8 @@ Only projects meeting all of the following criteria are listed.
 
 **[DrMoony/koregx](https://github.com/DrMoony/koregx)** – 한국 헬스케어 법령, 행정해석, 식약처·복지부 행정규칙, HIRA 결정을 통합 조회하는 웹 서비스 및 MCP 서버입니다.
 
+**[odd-Innocent/den_archi_mcp](https://github.com/odd-Innocent/den_archi_mcp)** – AI Agent 를 위한 한국 AEC 전문 지식 큐레이션 MCP 서버. 기준(KDS·KCS·KS)·법령과 실무, 그 사이의 이유까지 한 그래프에서 답하고, 답에는 근거가 붙습니다. 근거가 없으면 답하지 않습니다. 원격(streamable-http) 제공.
+
 **[seung23/lawtutor-mcp](https://github.com/seung23/lawtutor-mcp)** – 국가법령정보센터 데이터를 기반으로 7급 공무원시험 행정법·헌법 학습용 RAG 검색 도구를 제공하는 MCP 서버입니다.
 
 **[rabqatab/LexLink-ko-mcp](https://github.com/rabqatab/LexLink-ko-mcp)** – 국가법령정보센터 Open API 기반으로 법령·판례·행정규칙·헌재결정례·행정심판례를 구조적으로 제공하고 시맨틱 검색(aiSearch)을 지원하는 MCP 서버입니다.
