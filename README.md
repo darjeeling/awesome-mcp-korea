@@ -110,6 +110,8 @@ Only projects meeting all of the following criteria are listed.
 
 **[pykrx-mcp](https://github.com/sharebook-kr/pykrx-mcp)** – pykrx 라이브러리 기반으로 KOSPI·KOSDAQ·KONEX 주가, 재무제표, 투자자별 수급 및 공매도 데이터를 제공하는 MCP 서버입니다.
 
+**[auto1225/quotebill-mcp](https://github.com/auto1225/quotebill-mcp)** – 견적서·인보이스 템플릿 133종 검색(한국어 지원), 한국 부가가치세를 포함한 195개국 공식 세율과 출처 조회, 합계 계산을 제공하고 quotebill.com에서 완성 문서를 여는 링크를 돌려주는 원격 MCP 서버입니다(OAuth 2.1, 무료 계정 필요).
+
 **[redoxnet/mcp-lsopenapi](https://github.com/redoxnet/mcp-lsopenapi)** – LS증권 OpenAPI를 통해 국내 주식 시세, 차트, 지표 데이터를 자연어 도구로 조회하는 MCP 서버입니다.
 
 **[snaiws/DART-mcp-server](https://github.com/snaiws/DART-mcp-server)** – 금융감독원 DART API를 활용해 상장기업 공시, 기업 개황, 재무 정보 등을 조회하는 MCP 서버입니다.
