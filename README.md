@@ -78,6 +78,8 @@ Only projects meeting all of the following criteria are listed.
 
 **[workbookbulb863/korean-law-alio-mcp](https://github.com/workbookbulb863/korean-law-alio-mcp)** – 국가법령정보센터와 ALIO 공공기관 내부규정을 함께 검색·비교·분석하는 MCP 서버입니다.
 
+**[RosieOh/korean-notice-mcp](https://github.com/RosieOh/korean-notice-mcp)** – 지자체·공공기관 모집공고(HWP, HWPX)에서 제출서류(필수/조건부)와 신청기간을 원문 근거와 함께 추출하고, 전년도 공고와 비교해 바뀐 신청조건을 중요도 순으로 알려주는 MCP 서버입니다.
+
 ---
 
 ### 🛒 Commerce & Retail
