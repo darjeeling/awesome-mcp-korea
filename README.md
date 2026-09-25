@@ -192,6 +192,8 @@ Only projects meeting all of the following criteria are listed.
 
 **[korea-public-data-mcp](https://github.com/hjsh200219/korea-public-data-mcp)** – 국가법령정보센터, DART, 공공데이터포털 API를 통합해 법령·판례·기업공시·생활정보를 조회하는 MCP 서버입니다.
 
+**[korea-safety-mcp](https://github.com/RosieOh/korea-safety-mcp)** – 외교부 여행경보·안전공지, 질병관리청 검역관리지역·감염병 통계, WHO 감염병 발생 소식, 기상특보, 미세먼지를 묶어 해외여행·생활 안전 정보를 조회하는 MCP 서버입니다.
+
 **[jayjodev/vivory-mcp](https://github.com/jayjodev/vivory-mcp)** – KOSIS 통계를 비롯한 한국 공공데이터를 MCP 서버 패키지로 제공하는 Vivory 기반 프로젝트입니다.
 
 **[jaykim429/korea-statistic-MCP-cginside](https://github.com/jaykim429/korea-statistic-MCP-cginside)** – KOSIS OpenAPI를 자연어 질의, 통계 조회, 분석, SVG 시각화로 연결하는 MCP 서버입니다.
