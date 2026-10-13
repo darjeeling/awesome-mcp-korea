@@ -283,4 +283,5 @@ This list is released under the [CC0 1.0 Universal](https://creativecommons.org/
 ## 관련 프로젝트 (Related Projects)
 
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) – A curated list of MCP servers.
+- [Korea Agent Map](https://koreaagentmap.com) – A daily-updated, source-based map of Korean MCP servers and agent skills ranked by GitHub stars, with task guides and service-access status for AI agents in Korea.
 - [modelcontextprotocol](https://github.com/modelcontextprotocol) – Official MCP specification and SDKs.
