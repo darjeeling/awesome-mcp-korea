@@ -168,6 +168,8 @@ Only projects meeting all of the following criteria are listed.
 
 > MCP servers related to Korean tourism, travel destinations, and visitor services.
 
+**[korea-mcp](https://github.com/Leegwangwoon/korea-mcp)** – 수도권 지하철 경로(환승, 탈 승강장 방향, 요금)를 영어·한국어·일본어·중국어로 안내하고 공휴일과 외국인 방문자용 생활 가이드를 제공하며, API 키 없이 오프라인으로 동작하는 MCP 서버입니다.
+
 **[mcp-korea-tourism-api](https://github.com/harimkang/mcp-korea-tourism-api)** – 한국관광공사 TourAPI를 기반으로 관광지·행사·숙박·맛집 정보를 검색하는 MCP 서버입니다.
 
 **[mcp-visit-korea](https://github.com/pjookim/mcp-visit-korea)** – 지역·키워드·위치 기반으로 한국 관광 정보를 조회하는 MCP 서버입니다.
