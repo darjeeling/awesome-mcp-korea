@@ -126,7 +126,7 @@ Only projects meeting all of the following criteria are listed.
 
 **[mcp-kr-realestate](https://github.com/ChangooLee/mcp-kr-realestate)** – 국토부 실거래가와 ECOS 등 공공 API를 통합해 한국 부동산 투자 분석을 수행하는 MCP 서버입니다.
 
-**[real-estate-mcp](https://github.com/tae0y/real-estate-mcp)** – 국토교통부·온비드·청약홈 데이터를 기반으로 한국 부동산 매매·전월세·청약 정보를 제공하는 MCP 서버입니다.
+**[real-estate-mcp](https://github.com/tae0y/real-estate-mcp)** – 국토교통부·청약홈 데이터를 기반으로 한국 부동산 매매·전월세·청약 정보를 제공하는 MCP 서버입니다.
 
 ---
 
