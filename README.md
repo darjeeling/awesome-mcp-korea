@@ -190,6 +190,8 @@ Only projects meeting all of the following criteria are listed.
 
 **[k-targo-subway-mcp-server](https://github.com/slicequeue/k-targo-subway-mcp-server)** – 국토교통부 TAGO 지하철정보 API 기반으로 역 검색·시간표 조회를 제공하는 MCP 서버입니다.
 
+**[korea-data-mcp](https://github.com/YoungsoonLee/korea-data-mcp)** – DART 공시·재무, 주가, 아파트 실거래가, 사업자 상태, 법령·판례를 원본 API의 함정(반기 매출 오독, 미시행 조문, 해제 거래 등)까지 처리해 AI가 정확히 답하게 하는 MCP 서버입니다.
+
 **[korea-public-data-mcp](https://github.com/hjsh200219/korea-public-data-mcp)** – 국가법령정보센터, DART, 공공데이터포털 API를 통합해 법령·판례·기업공시·생활정보를 조회하는 MCP 서버입니다.
 
 **[jayjodev/vivory-mcp](https://github.com/jayjodev/vivory-mcp)** – KOSIS 통계를 비롯한 한국 공공데이터를 MCP 서버 패키지로 제공하는 Vivory 기반 프로젝트입니다.
