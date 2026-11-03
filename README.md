@@ -260,6 +260,8 @@ Only projects meeting all of the following criteria are listed.
 
 **[kr-movie-tv-mcp](https://github.com/carasjung/kr-movie-tv-mcp)** – 한국 영화와 드라마의 박스오피스, 시청률, 수상 이력, 스트리밍 제공 여부, 출연진 정보를 조회하는 MCP 서버입니다.
 
+**[Homo Universalis — Viveka (viveka-oracle)](https://github.com/David-Porto-Baraldes/Viveka_Web)** – 스위스 천문력(`pyswisseph`) 기반의 결정론적 사주팔자(四柱八字)·오행(五行)·주역 64괘(周易)·서양 점성술·인도 베다(Jyotish) 통합 천문력 및 궁합(`calculate_karmic_synastry`) 계산을 제공하는 무인증 원격(`https://homouniversalis.ai/mcp`) 및 로컬 MCP 서버입니다.
+
 ---
 
 ## 기여 방법 (Contributing)
