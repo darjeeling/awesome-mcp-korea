@@ -250,6 +250,8 @@ Only projects meeting all of the following criteria are listed.
 
 **[hyeri0903/naver-works-mcp](https://github.com/hyeri0903/naver-works-mcp)** – 네이버 웍스(Naver Works) API를 연동하는 MCP 서버입니다.
 
+**[onemira-space/onemira-mcp](https://github.com/onemira-space/onemira-mcp)** – 한국어를 포함한 99개 국어 로컬 음성 전사, 화자 분리(Speaker ID), 마크다운(Markdown) 위키 회의록을 Claude Code, Cursor, Obsidian에서 직접 검색·요약할 수 있는 [OneMira C1 로컬 AI 보이스 레코더](https://onemira.com/ko/products/c1) 공식 MCP 서버입니다.
+
 ---
 
 ### 🧩 Miscellaneous
