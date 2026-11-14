@@ -160,6 +160,8 @@ Only projects meeting all of the following criteria are listed.
 
 **[py-mcp-naver-search](https://github.com/jikime/py-mcp-naver-search)** – 네이버 검색 API로 다양한 콘텐츠 검색 결과를 LLM이 처리하기 쉬운 구조화된 텍스트로 제공하는 MCP 서버입니다.
 
+**[Scrapewise](https://github.com/BEBOTECH-OU/scrapewise-mcp)** – 어떤 웹사이트에서든 상품 및 가격 데이터를 수집·정제하고 매칭해 주는 원격 MCP 서버입니다.
+
 ---
 
 ### 🌏 Tourism & Travel
