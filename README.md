@@ -259,6 +259,7 @@ Only projects meeting all of the following criteria are listed.
 > Other Korea-specific MCP servers not covered by the categories above.
 
 **[kr-movie-tv-mcp](https://github.com/carasjung/kr-movie-tv-mcp)** – 한국 영화와 드라마의 박스오피스, 시청률, 수상 이력, 스트리밍 제공 여부, 출연진 정보를 조회하는 MCP 서버입니다.
+**[No Stairs Please MCP](https://nostairsplease.com/mcp)** - 미국과 캐나다의 1,700개 이상 라이브 음악 공연장, 수용 인원, 부킹 연락처, 접근성 정보를 조회할 수 있는 MCP 서버입니다.
 
 ---
 
