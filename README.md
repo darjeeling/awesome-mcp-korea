@@ -260,6 +260,8 @@ Only projects meeting all of the following criteria are listed.
 
 **[kr-movie-tv-mcp](https://github.com/carasjung/kr-movie-tv-mcp)** – 한국 영화와 드라마의 박스오피스, 시청률, 수상 이력, 스트리밍 제공 여부, 출연진 정보를 조회하는 MCP 서버입니다.
 
+**[No Stairs Please MCP](https://nostairsplease.com/mcp)** – [No Stairs Please](https://nostairsplease.com/)에서 제공하는 원격 MCP 서버로, 미국 50개 주, DC 및 BC 지역의 소규모 라이브 음악 공연장, 수용 인원, 부킹 연락처 정보를 검색할 수 있습니다.
+
 ---
 
 ## 기여 방법 (Contributing)
