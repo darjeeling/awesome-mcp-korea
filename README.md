@@ -114,6 +114,8 @@ Only projects meeting all of the following criteria are listed.
 
 **[snaiws/DART-mcp-server](https://github.com/snaiws/DART-mcp-server)** – 금융감독원 DART API를 활용해 상장기업 공시, 기업 개황, 재무 정보 등을 조회하는 MCP 서버입니다.
 
+**[XBOSS-Corp/xboss-connect](https://github.com/XBOSS-Corp/xboss-connect)** – 홈택스, 4대보험, 정부24, 은행, 위택스 등 15개 이상 기관과 플랫폼의 전자세금계산서, 급여명세서, 계좌 조회, 고용지원금, 광고 성과 업무를 AI로 연결하는 XBOSS 공식 API와 MCP 패키지입니다.
+
 ---
 
 ### 🏠 Real Estate
